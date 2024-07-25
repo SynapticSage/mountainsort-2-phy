@@ -1,0 +1,8 @@
+tqdm
+spikeinterface[full]
+numpy
+pandas
+phy
+cuml
+umap-learn
+
